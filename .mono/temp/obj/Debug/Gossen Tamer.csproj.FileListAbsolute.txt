@@ -1,0 +1,8 @@
+C:\Users\kirot\Documents\Gossen Tamer\.mono\temp\bin\Debug\Gossen Tamer.dll
+C:\Users\kirot\Documents\Gossen Tamer\.mono\temp\bin\Debug\Gossen Tamer.pdb
+C:\Users\kirot\Documents\Gossen Tamer\.mono\temp\obj\Debug\Gossen Tamer.csprojAssemblyReference.cache
+C:\Users\kirot\Documents\Gossen Tamer\.mono\temp\obj\Debug\Gossen Tamer.AssemblyInfoInputs.cache
+C:\Users\kirot\Documents\Gossen Tamer\.mono\temp\obj\Debug\Gossen Tamer.AssemblyInfo.cs
+C:\Users\kirot\Documents\Gossen Tamer\.mono\temp\obj\Debug\Gossen Tamer.csproj.CoreCompileInputs.cache
+C:\Users\kirot\Documents\Gossen Tamer\.mono\temp\obj\Debug\Gossen Tamer.dll
+C:\Users\kirot\Documents\Gossen Tamer\.mono\temp\obj\Debug\Gossen Tamer.pdb
