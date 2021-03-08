@@ -7,14 +7,12 @@ public class Attack : Node2D
     public override void _Ready()
     {
         animationPlayer = GetNode<AnimationPlayer>("AnimationPlayer");
-    }
-    public void startAttack()
-    {
         animationPlayer.Play("Attack");
+        
     }
 
-    public void onAnimationDone()
+    public void _on_AnimationPlayer_animation_finished(string animation)
     {
-        Free();
+        QueueFree();
     }
 }
